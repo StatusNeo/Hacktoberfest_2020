@@ -33,6 +33,14 @@ Please follow the contribution [guidelines](docs/CONTRIBUTING.md) to participate
 
 Adhere to the following [Code of Conduct](docs/CODE_OF_CONDUCT.md).
 
+## Quality Checks
+
+![quality](img/quality.png)
+
+We firmly believe in quality PRs. Though this repository is meant for beginners, we discourage PRs with single character changes and whitespaces errors.
+
+Only quality PRs matching all criterias and rules would be merged.
+
 ## License
 
 This repository follows the [MIT License](LICENSE)
