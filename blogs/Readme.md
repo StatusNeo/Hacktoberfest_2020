@@ -20,6 +20,7 @@
 | :-- | :-- |
 | [GitHub Code Scanner](GitHub-CodeScanning.md) | [Nishkarsh Raj](https://www.github.com/NishkarshRaj) |
 | [Jenkins](Installation-of-Jenkins-and-Simple-job.md) | [Neha Singh](https://github.com/Nehasingh1300) |
+| [Linear Discriminant Analysis in Python](Linear_Discriminant_Analysis.md) | [Kajori Ghosh](https://www.github.com/Kajori4) |
 | Docker - Container Security | [Manuel Castellin](https://www.github.com/mcastellin) |
 | HashiCorp Packer |  |
 | HashiCorp Terraform | |

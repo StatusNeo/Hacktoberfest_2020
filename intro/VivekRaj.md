@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/VivekRaj.jpg" height="400">
+<img src="img/VivekRaj.JPG" height="400">
 
 <h1 align="center">Vivek Raj</h1>
 
