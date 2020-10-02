@@ -1,12 +1,12 @@
-## Image
+<h1 align="center">Create a Blog</h1>
 
-Create a short introductory blog on the topics mentioned below
+![img](img/blog.png)
 
 ## Collaboration Guidelines
 
 ### Create a Blog
 
-* Create an Issue in this repository with the Topic Name you want to work on.
+* Create an issue in this repository with the topic you want to work on.
 * Get that topic assigned by the maintainer
 * Create a PR and wait for review.
 
