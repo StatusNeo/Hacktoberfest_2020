@@ -1,5 +1,6 @@
 <p align="center">
-<img src="img/Shubham.jpg" height="400">
+<img src="img/shubham.jpg" height="400">
+</p>
 
 <h1 align="center">Shubham Yadav</h1>
 
@@ -11,4 +12,4 @@
   <a href="https://twitter.com/shubhamdsm"><img height="50" src="img/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://shubhamyadav.netlify.com"><img height="50" src="img/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-</p>
+
