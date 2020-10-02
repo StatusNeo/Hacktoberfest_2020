@@ -9,5 +9,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GH_TOKEN }}
-        issue-message: 'Congrats! You created your first PR on this repository :+1: We will revert shortly'' first issue'
-        pr-message: 'Congrats! You just created a PR :heart: The maintainers will review soon'' first pr'
+        issue-message: 'Congrats! You just created a PR :heart: The maintainers will review soon'' first issue'
+        pr-message: 'Congrats! You created your first PR on this repository :+1: We will revert shortly'' first pr'
