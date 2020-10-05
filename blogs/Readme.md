@@ -24,6 +24,7 @@
 | [HashiCorp Vagrant](Vagrant.md) | [Abhijeet Prasad](https://www.github.com/kudoabhijeet) |
 | [6 Tips and Techniques to Speed Up and Improve Your Node.js Performance](6-techniques-nodejs.md) | [Naruepanart Siangsanan](https://github.com/naruepanart) |
 | Docker - Container Security | [Manuel Castellin](https://www.github.com/mcastellin) |
+| [Kubernetes](Kubernetes.md) |[Asher W](https://github.com/whiskerwind) |
 | HashiCorp Packer |  |
 | HashiCorp Terraform | |
 | HashiCorp Nomad | |
@@ -33,5 +34,5 @@
 | GitLab | |
 | Dependabot | |
 | Circle CI | |
-| [Kubernetes](Kubernetes.md) |[Asher W](https://github.com/whiskerwind) |
+
 
