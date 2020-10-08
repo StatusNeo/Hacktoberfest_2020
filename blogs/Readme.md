@@ -28,12 +28,12 @@
 | [DataCamp](DataCamp.md) | [Aviraw](https://github.com/aviraw) |
 | [Fundamentals of Virtual Private Networks](fundamentals-of-Virtual-Private-Networks.md) |[Asher W](https://github.com/whiskerwind) |
 | [Shell Scripting](ShellScripting.md) | [Pranjal Srivastava](https://github.com/pranjals149) |
+| [GitHub](Github.md) | [Muditxofficial](https://github.com/Muditxofficial) |
 | HashiCorp Packer |  |
 | HashiCorp Terraform | |
 | HashiCorp Nomad | |
 | HashiCorp Consul | |
 | HashiCorp Vault | |
-| GitHub | |
 | GitLab | |
 | Dependabot | |
 | Circle CI | |
