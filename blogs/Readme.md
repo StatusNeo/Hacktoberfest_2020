@@ -26,7 +26,8 @@
 | Docker - Container Security | [Manuel Castellin](https://www.github.com/mcastellin) |
 | [Kubernetes](Kubernetes.md) |[Asher W](https://github.com/whiskerwind) |
 | [DataCamp](DataCamp.md) | [Aviraw](https://github.com/aviraw) |
-|[Fundamentals of Virtual Private Networks](fundamentals-of-Virtual-Private-Networks.md)|[Asher W](https://github.com/whiskerwind) |
+| [Fundamentals of Virtual Private Networks](fundamentals-of-Virtual-Private-Networks.md) |[Asher W](https://github.com/whiskerwind) |
+| [Shell Scripting](ShellScripting.md) | [Pranjal Srivastava](https://github.com/pranjals149) |
 | HashiCorp Packer |  |
 | HashiCorp Terraform | |
 | HashiCorp Nomad | |
