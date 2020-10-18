@@ -45,6 +45,10 @@ function makeSound(clicked){
             var audio = new Audio("sounds/tom-4.mp3");
             audio.play();
             break;
+        case 't':
+            var audio = new Audio("sounds/tom-5.mp3");
+            audio.play();
+            break;
     }
 }
 // current button animation 
